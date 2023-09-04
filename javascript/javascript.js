@@ -1,0 +1,1 @@
+alert ("bienvenido a la segunda pagina")
